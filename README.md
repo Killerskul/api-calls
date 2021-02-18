@@ -16,7 +16,7 @@ mvn clean package
 
 Execute jar file with the following arguments
 
-- <API_URL> <API KEY> <ACTION - GET/POST> <FILE - ONLY FOR POST>
+- <API_URL> <API_KEY> <ACTION - GET/POST> <FILE - ONLY FOR POST>
 
 Example for GET:
 ```java
